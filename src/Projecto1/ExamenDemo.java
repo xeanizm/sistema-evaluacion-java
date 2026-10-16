@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Projecto1;
 import java.util.Scanner;
-/**
- *
- * @author maxim
- */
+
 public class ExamenDemo {
     
     public static void main(String args[]){
@@ -40,7 +34,7 @@ public class ExamenDemo {
         
         int opcion = 0;
         
-        while (opcion != 5) {
+        while (opcion != 6) {
             System.out.println("\n===== SISTEMA DE EXAMENES =====");
             System.out.println("1. Realizar examen");
             System.out.println("2. Ver preguntas");
